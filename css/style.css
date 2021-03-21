@@ -1,0 +1,449 @@
+*
+{
+	margin: 0;
+	padding: 0;
+	box-sizing: border-box;
+}
+ul{
+	list-style: none;
+}
+.logo
+{
+	width: 418px;
+	height: 110px;
+
+}
+
+.date i
+{
+	color: #267163;
+	font-size: 30px;
+	padding-right: 10px;
+}
+.icon a i{
+	padding: 10px;
+	font-size: 12px; 
+	background: #d7dddc;
+	color: #267163;
+}
+.icon a i:hover
+{
+	color: black; 
+}
+
+
+
+nav{
+	background: #267163;
+	line-height: 50px;
+	/*position: fixed;
+	right: 20px; top: 30px;*/
+}
+nav ul li{
+	display: inline-block;
+}
+nav ul li a{
+	color: #fff;
+	padding: 5px 15px;
+	text-decoration: none;
+	font-weight: 550;
+}
+.a1 a,nav ul li a:hover
+{
+	background-color: #84b4d4;
+	text-decoration: none;
+	color: #267163;
+}
+
+.breaking-news-item .main-title
+{
+	margin-top: 20px; 
+	font-size: 60px;
+    line-height: 70px;
+    font-weight: 400;
+    display: block;
+    color: #337ab7;
+    /*margin-bottom: 15px;*/
+    border: 1px solid #e0e0e0;
+}
+.breaking-news-item .main-title a:hover
+{
+	color: #222222;
+	text-decoration: none;
+}
+
+.breaking-news-item1
+{
+	
+	border: 1px solid #e0e0e0;
+	margin-bottom: 40px;
+}
+.breaking-news-item1 h1
+{
+	margin-top: 20px; 
+	font-size: 55px;
+    line-height: 70px;
+    font-weight: 400;
+    display: block;
+    color: #337ab7;
+}
+.subline
+{
+	color: #222222;
+}
+.author-name
+{
+	color: #267163;
+	font-weight: bold;
+}
+.breaking-news-item1 h1 a:hover
+{
+	color: #222222;
+	text-decoration: none;
+}
+.img1
+{
+	padding: 20px;
+}
+.more
+{
+	color: #337ab7;
+}
+.ads
+{
+	margin: auto;
+	margin-top: 20px;
+}
+.subtitle h5
+{
+	color: #222;
+    margin-top: 15px;
+    font-weight: 700;
+    font-size: 1.375rem;
+    line-height: 32px;
+}
+.attach
+{
+	position: relative;
+	margin-bottom: 60px;
+}
+.attach h1
+{
+	position: absolute;
+    bottom: -7px;
+    left: 0px;
+    color: #fff;
+    width: 1109px;
+    background: rgba(0, 0, 0, 0.5);
+/*    padding: 51px 30px;*/
+    line-height: 72px;
+    font-weight: 900;
+    max-width: 100%;
+    max-height: 100%;
+
+}
+/*.attach p
+{
+	position: absolute;
+	bottom: 1px;
+	left: 50px;
+	border-top: 1px solid #45484c;
+	width: 92%;
+	padding: 40px 20px;
+	background: rgba(0, 0, 0, 0.5);
+}*/
+.bises h3
+{
+	color: #267163;
+	font-weight: 600;
+	font-size: 26px;
+	padding-bottom: 20px;
+	border-bottom: 1px solid #337ab7;
+	max-width: 100%;
+}
+.bises1 h5
+{
+	width: 226px;
+	font-weight: 600;
+}
+.self-reporter
+{
+	font-size: 18px;
+/*	border-bottom: 1px solid #d13938;
+	width: 50%*/
+}
+.subtitle
+{
+	position: relative;
+}
+.subtitle p
+{
+	position: absolute;
+	bottom: -35px;
+	left: 20px;
+	border-bottom: 1px solid #d13938;
+}
+.sub-title p
+{
+	position: absolute;
+/*	top: 170px;*/
+	left: 172px;
+	border-bottom: 1px solid #d13938;
+}
+.note
+{
+    margin-top: 75px;
+    font-size: 18px;
+    text-align: center;
+}
+.bises2
+{
+	background: #e9f5ff;
+	padding-bottom: 30px;
+}
+.items
+{
+	position: relative;
+    border-top: 1px solid #ddd;
+    margin-top: 30px; 
+}
+.items1
+{
+	position: absolute;
+	top: 40px;
+	left: 230px;
+	font-size: 18px;
+    line-height: 28px;
+    font-weight: 900;
+    text-align: center;
+}
+.items2
+{
+	position: absolute;
+	top: 135px;
+	left: 285px;
+	font-size: 15px;
+	text-align: center;
+}
+.bises12 h5
+{
+	width: 226px;
+	font-weight: 600;
+	border-bottom: #CCC solid 1px;
+}
+.left-icon
+{
+    color: #267163;
+    font-size: 12px;
+    position: relative;
+}
+/*.dot h4
+{
+	position: absolute;
+    left: 35px;
+    bottom: -38px;
+    font-size: 18px;
+    width: 200px;
+    font-weight: 600;
+    border-bottom: #CCC solid 1px;
+}
+.dot1 h4
+{
+	position: absolute;
+    left: 35px;
+    bottom: -14px;
+    font-size: 18px;
+    width: 200px;
+    font-weight: 600;
+    border-bottom: #CCC solid 1px;
+}*/
+.dot
+{
+	border-bottom:#CCC solid 1px;
+	padding-bottom:14px;
+}
+.main-title1
+{
+	font-size:20px;
+	font-weight: 600;
+	text-align: center;
+}
+.rounded-circle1
+{
+	width: 300px;
+/*	height: 100px;*/
+	clip-path: circle();
+/*	border-radius: 50%;*/
+    margin-left: -45px;
+    margin-top: 20px;
+}
+/*.prabhu
+{
+	margin-left: -24px;
+    margin-top: -38px;
+}*/
+.readmore
+{
+	background: #267163;
+	color: #fff;
+	size: 200;
+	padding: 0px 15px;
+	margin-bottom: 40px;
+}
+.left-icon1
+{
+	color: #fff;
+}
+footer
+{
+	background: #f0f0f0;
+}
+.card
+{
+	margin-top: 30px;
+	padding: 20px; 
+	margin-right: 95px;
+}
+/*.icon i
+{
+	color: #267163;
+    padding: 10px;
+    font-size: 12px;
+    background: #d7dddc;
+}*/
+.icon a i
+{
+	position: relative;
+}
+.icon h5
+{
+	position: absolute;
+	top: 24px;
+	left: 70px;
+}
+/*footer .card
+{
+	border-background: 1px solid black;
+}*/
+.icons .fa-facebook
+{
+	background: #00aced;
+	padding: 13px 15px;
+	font-size: 12px; 
+	color: #fff;
+}
+.icons .fa-twitter
+{
+	background: #00aced;
+	padding: 13px 13px;
+	font-size: 12px; 
+	color: #fff;
+}
+.icons .fa-youtube
+{
+	background: #bb0000;
+	padding: 12px 12px;
+	font-size: 12px; 
+	color: #fff;
+}
+.icons .fa-instagram
+{
+	background: #bc2a8d;
+	padding: 12px 12px;
+	font-size: 12px; 
+	color: #fff;
+}
+.card:hover
+{
+	border: 4px solid #267163;
+}
+.icons/* .left-icons*/
+{
+	position: relative;
+}
+.icons .a1 a
+{
+	position: absolute;
+	top: 31px;
+	left: 65px;
+	background: none;
+	color: #007bff;
+}
+.icons .a2 a
+{
+	position: absolute;
+	top: 110px;
+	left: 65px;
+	background: none;
+	color: #007bff;
+	text-decoration: none;
+}
+.icons .a3 a
+{
+	position: absolute;
+	top: 187px;
+	left: 65px;
+	background: none;
+	color: #007bff;
+	text-decoration: none;
+}
+.icons .a4 a
+{
+	position: absolute;
+	top: 263px;
+	left: 65px;
+	background: none;
+	color: #007bff;
+	text-decoration: none;
+}
+
+
+/*.flex{
+	display: flex;
+	background: red;
+}
+.right
+{
+	flex-basis: 300px;
+}
+.right img
+{
+width: 100%;
+}
+.left
+{
+	width: 900px;
+	background: black;
+	margin-right: 50px;
+}*/
+/*.sb
+{
+	justify-content: space-between;
+}*/
+.info h5
+{
+	margin-left: -45px;
+	color: #266b9e;
+	font-weight: 600;
+}
+.info p
+{
+	margin-left: 11px;
+	margin-top: 50px;
+	color: #666;
+	line-height: 35px;
+}
+.logo
+{
+	max-width: 100%;
+}
+
+@media(max-width: 360px)
+{
+	.logo img{ float: none; padding-left:100px; max-width: 200px;}
+	/*.subtitle img{float: none; text-align: center;}*/
+	footer .card{float: none; margin: auto;}
+	.subtitle img{float: none; margin: auto; max-width: 300px;}
+	.bises2 .items2{ float:  none; padding-top: 15px; margin-left: -50px;}
+	.attach .bluetitle{font-size: 15px;}
+}
